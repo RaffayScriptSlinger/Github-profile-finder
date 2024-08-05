@@ -1,0 +1,37 @@
+body {
+    background-color: #e0f7fa; 
+}
+
+#sub-div {
+    height: auto;
+    width: 300px;
+    background-color: #00796b; 
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    box-shadow: 6px 16px 16px rgba(0, 0, 0, 0.2); 
+}
+
+#p-Name {
+    background-color: #e0f7fa; 
+}
+
+#main-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+#profilePic > img {
+    border: 2px solid #ffab40; 
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+
+#profilePic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
